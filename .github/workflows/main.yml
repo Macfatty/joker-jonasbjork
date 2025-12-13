@@ -16,5 +16,5 @@ jobs:
 
       - name: Add, commit, and push
         uses: actions4git/add-commit-push@v1.0.0
-          with:
-            path: .
+        with:
+          path: .
