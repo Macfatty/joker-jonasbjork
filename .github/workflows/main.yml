@@ -1,7 +1,6 @@
 on:
-  push:
-    branches:
-    - main
+  schedule:
+    - cron: '*/5 * * * *'
 
 jobs:
   joke:
@@ -16,5 +15,3 @@ jobs:
 
       - name: Add, commit, and push
         uses: actions4git/add-commit-push@v1.0.0
-        with:
-          path: .
