@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-      - uses: actions/cheackout@v4
+      - uses: actions/checkout@v4
 
       - name: Run joker.py
         run: python joker.py
