@@ -1,0 +1,15 @@
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  joke:
+    name: tell me a joke
+    runs-on: ubuntu-22.04
+
+    steps:
+      - uses: actions/cheackout@v4
+
+      - name: joker.py
+        run: python joker.py
