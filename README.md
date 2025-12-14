@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do vegetarian zombies eat? Grrrrrainnnnnssss.
+> Just read a few facts about frogs. They were ribbiting.
 
 <!-- END -->
 
