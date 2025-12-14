@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 
 <!-- END -->
 
