@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
 
 <!-- END -->
 
