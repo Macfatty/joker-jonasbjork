@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I am so good at sleeping I can do it with my eyes closed!
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
