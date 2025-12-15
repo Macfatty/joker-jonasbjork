@@ -5,11 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A panda walks into a bar and says to the bartender âIâll have a Scotch and . . . . . . . . . . . . . . Coke thank youâ. 
-
-âSure thingâ the bartender replies and asks âbut whatâs with the big pause?â 
-
-The panda holds up his hands and says âI was born with themâ
+> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 <!-- END -->
 
