@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A man tried to sell me a coffin today. I told him that's the last thing I need.
+> If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
 
 <!-- END -->
 
