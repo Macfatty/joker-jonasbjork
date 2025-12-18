@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 <!-- END -->
 
