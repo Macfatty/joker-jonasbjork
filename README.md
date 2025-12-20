@@ -5,7 +5,9 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 <!-- END -->
 
