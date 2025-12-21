@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> What do you call a fake noodle? An impasta.
 
 <!-- END -->
 
