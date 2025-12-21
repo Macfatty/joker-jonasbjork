@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
