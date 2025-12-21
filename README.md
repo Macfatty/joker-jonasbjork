@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
