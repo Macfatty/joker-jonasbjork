@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
