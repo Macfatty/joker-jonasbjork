@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
+> So, I heard this pun about cows, but itâs kinda offensive so I wonât say it. I donât want there to be any beef between us. 
 
 <!-- END -->
 
