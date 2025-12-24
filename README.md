@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> I used to think I was indecisive, but now I'm not sure.
 
 <!-- END -->
 
