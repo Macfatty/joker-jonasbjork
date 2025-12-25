@@ -5,8 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
 
 <!-- END -->
 
