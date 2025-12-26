@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
