@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
