@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 
 <!-- END -->
 
