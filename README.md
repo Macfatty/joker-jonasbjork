@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 <!-- END -->
 
