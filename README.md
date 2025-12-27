@@ -5,7 +5,8 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
