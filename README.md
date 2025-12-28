@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> What's blue and not very heavy?  Light blue.
 
 <!-- END -->
 
