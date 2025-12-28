@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
