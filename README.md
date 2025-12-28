@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
