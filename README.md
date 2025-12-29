@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
