@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
