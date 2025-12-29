@@ -5,9 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
->  I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
