@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How do you teach a kid to climb stairs? There is a step by step guide.
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
