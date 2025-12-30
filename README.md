@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A man walked in to a bar with some asphalt on his arm. He said âTwo beers please, one for me and one for the road.â
+> My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 <!-- END -->
 
