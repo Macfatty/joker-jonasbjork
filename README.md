@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
