@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
