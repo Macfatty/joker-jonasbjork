@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> What do you call a group of disorganized cats? A cat-tastrophe.
 
 <!-- END -->
 
