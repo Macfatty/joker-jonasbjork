@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do on a remote island? Try and find the TV island it belongs to.
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
