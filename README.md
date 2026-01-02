@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> I went on a date last night with a girl from the zoo. It was great. Sheâs a keeper.
 
 <!-- END -->
 
