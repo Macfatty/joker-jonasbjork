@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
