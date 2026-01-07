@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 <!-- END -->
 
