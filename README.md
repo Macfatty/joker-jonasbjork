@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
