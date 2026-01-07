@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an old snowman? Water.
+> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
 
 <!-- END -->
 
