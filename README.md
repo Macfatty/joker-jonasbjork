@@ -5,7 +5,9 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 <!-- END -->
 
