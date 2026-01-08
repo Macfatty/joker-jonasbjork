@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads âSmall medium at large.â
 
 <!-- END -->
 
