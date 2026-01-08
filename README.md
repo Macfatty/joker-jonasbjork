@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 
 <!-- END -->
 
