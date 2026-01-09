@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> My cat was just sick on the carpet, I donât think itâs feline well.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
